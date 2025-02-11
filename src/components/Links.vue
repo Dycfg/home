@@ -64,7 +64,7 @@ const siteLinksList = computed(() => {
 // 网站链接图标
 const siteIcon = {
   Blog,
-  Cloud,
+  Rocketchat,
   CompactDisc,
   Compass,
   Book,
